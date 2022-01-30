@@ -18,3 +18,7 @@
 </ul>
 <h4> Contoh simulasi program : </h4>
   <li> Masukkan Nama File : test.pdf
+       File Tersebut Memiliki Format PDF!
+
+-----------------Program Selesai!-----------------
+--Tekan tombol apapun untuk keluar dari program!-- </li>

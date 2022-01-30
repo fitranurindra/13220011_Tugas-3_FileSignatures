@@ -17,4 +17,4 @@
   <li> Apabila program telah selesai memberikan informasi terkait format dari file yang diinput oleh user, program berakhir. </li>
 </ul>
 <h4> Contoh simulasi program : </h4>
-  <li> Masukkan Nama File : test.pdf<br>File Tersebut Memiliki Format PDF!<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!-- </li>
+  <li> <b>input</b>: <br>Masukkan Nama File : test.pdf<br><b>output</b><br>File Tersebut Memiliki Format PDF!<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!-- </li>

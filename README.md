@@ -17,6 +17,6 @@
   <li> Apabila program telah selesai memberikan informasi terkait format dari file yang diinput oleh user, program berakhir. </li>
 </ul>
 <h4> Contoh simulasi program : </h4>
-  <li> <b>input :</b> <br>Masukkan Nama File : test.pdf<br><b>  output :</b><br>File Tersebut Memiliki Format PDF!<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!-- <br><br></li>
-  <li> <b>input :</b> <br>Masukkan Nama File : test.exe<br><b>  output :</b><br>Format dari File Tersebut Tidak Terdefinisi!<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!-- <br><br></li>
-  <li> <b>input :</b> <br>Masukkan Nama File : test<br><b>  output :</b><br>---Nama atau Direktori File yang Anda Input Salah!---<br>------------Tidak Ada File yang Diinput!-------------<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!--</li>
+  <li> Case 1<br><b>input :</b> <br>Masukkan Nama File : test.pdf<br><b>  output :</b><br>File Tersebut Memiliki Format PDF!<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!-- <br><br></li>
+  <li> Case 2<br><b>input :</b> <br>Masukkan Nama File : test.exe<br><b>  output :</b><br>Format dari File Tersebut Tidak Terdefinisi!<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!-- <br><br></li>
+  <li> Case 3<br><b>input :</b> <br>Masukkan Nama File : test<br><b>  output :</b><br>---Nama atau Direktori File yang Anda Input Salah!---<br>------------Tidak Ada File yang Diinput!-------------<br><br>-----------------Program Selesai!-----------------<br>--Tekan tombol apapun untuk keluar dari program!--</li>
